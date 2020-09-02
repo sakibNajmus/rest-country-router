@@ -1,0 +1,26 @@
+.country-details{
+    /* display: flex;
+    float: left; */
+    text-align: center;
+    border: 1px solid rgba(128, 128, 128, 0.288);
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 10px 0 20px 0;
+    border-radius: 10px;
+    margin: 20px;
+    font-weight: 700;
+}
+
+.country-flag{
+    margin: 0 auto;
+    max-width: 25%;
+}
+
+.main-button{
+    background-color: black;
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+}
